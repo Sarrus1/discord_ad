@@ -22,7 +22,7 @@ public void OnPluginStart()
 
     cDiscord = CreateConVar("sm_discord_ad_url", "", "Type the link of the discord invite here");
 
-    AutoExecConfig(true, "plugin.discord_ad", "Sarrus");
+    AutoExecConfig(true, "plugin.discord_ad");
 }
 
 
