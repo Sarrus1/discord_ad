@@ -1,0 +1,9 @@
+"Phrases"
+{
+    "Discord_Ad"
+    {
+        "#format" "{1:s}"
+        "en"        "{green}[Links]{default}Join us on discord at {darkred}{1}"
+        "fr"        "{green}[Links]{default}Rejoignez-nous sur discord à {darkred}{1}"
+    }
+}
